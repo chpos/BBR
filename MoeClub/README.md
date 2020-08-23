@@ -6,6 +6,6 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/chpos
 
 ## Debian9, v4.14, build kernel from source.
 ```
-bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/BBR/master/build.sh')
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/chpos/BBR/master/MoeClub/build.sh')
 ```
 
